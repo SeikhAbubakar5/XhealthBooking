@@ -29,7 +29,7 @@ const Testimonials = () => {
                     <p> M.Sc (Advanced Sports Therapy)</p>
                     <p>10 year of Experience</p>
                 </div>
-                <a href='#'>
+                <a href="/">
                 <button style={{width:"100%", height:"40px",borderRadius:"5px"}}>Know More</button>
                 </a>
             </div>
@@ -43,7 +43,7 @@ const Testimonials = () => {
                     <p> Msc (Neuro Rihabitilation)</p>
                     <p>13 year of Experience</p>
                 </div>
-                <a href='#'>
+                <a href="/">
                 <button style={{width:"100%", height:"40px",borderRadius:"5px"}}>Know More</button>
                 </a>
             </div></SwiperSlide>
@@ -56,7 +56,7 @@ const Testimonials = () => {
                     <p> MPTh (Musculoskeletal)</p>
                     <p>8 year of Experience</p>
                 </div>
-                <a href='#'>
+                <a href="/">
                 <button style={{width:"100%", height:"40px",borderRadius:"5px"}}>Know More</button>
                 </a>
             </div></SwiperSlide>
@@ -70,7 +70,7 @@ const Testimonials = () => {
                     <p> MPTh (Musculoskeletal science)</p>
                     <p>8 year of Experience</p>
                 </div>
-                <a href='#'>
+                <a href="/">
                 <button style={{width:"100%", height:"40px"}}>Know More</button>
                 </a>
             </div></SwiperSlide>
@@ -84,7 +84,7 @@ const Testimonials = () => {
                     <p> MPTh (Neuro Physiotherapy)</p>
                     <p>10 year of Experience</p>
                 </div>
-                <a href='#'>
+                <a href="/">
                 <button style={{width:"100%", height:"40px"}}>Know More</button>
                 </a>
             </div></SwiperSlide>
@@ -98,7 +98,7 @@ const Testimonials = () => {
                     <p> MPTh (Neuro Science)</p>
                     <p>14 year of Experience</p>
                 </div>
-                <a href='#'>
+                <a href="/">
                 <button style={{width:"100%", height:"40px"}}>Know More</button>
                 </a>
             </div></SwiperSlide>
